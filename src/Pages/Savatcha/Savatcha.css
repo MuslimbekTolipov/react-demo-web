@@ -1,0 +1,16 @@
+.basket{
+    padding: 20px 30px;
+}
+.basket img{
+    width: 200px;
+    height: 150x;
+    object-fit: cover;
+}
+.basket button{
+    width: 100px;
+    height: 25px;
+    padding: 5px;
+    background-color: royalblue;
+    color: white;
+    margin: 13px auto;
+}

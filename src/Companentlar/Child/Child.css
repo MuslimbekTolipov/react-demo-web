@@ -1,0 +1,11 @@
+.child{
+    background-color: aqua;
+    color: red;
+    margin-bottom: 20px;
+    padding: 10px 30px;
+}
+.child .all_child{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    grid-gap:25px;
+}
